@@ -14,3 +14,4 @@ Starting to figure stuff out...
 | 1 1 0 | 0 | 
 | 1 1 1 | 1 | 
 
+![alt text] (https://github.com/xAshleyTx/ECE281_CE1 "Waveform")
